@@ -116,7 +116,7 @@ Project1.xlsx
 **Dushyant Gurjar**
 B.Tech Computer Science & Engineering — BIT Mesra
 📧 dgurjar0103@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/)
+🔗 [LinkedIn](https://linkedin.com/in/dushyant-gurjar-30b6b9378/) | [GitHub](https://github.com/dgurjar0103/)
 
 ---
 
